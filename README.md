@@ -1,5 +1,4 @@
 # independence_test
-Independence test based on recurrence rates
 Here is the code for the independence test between two vectors X and Y.
 
 1- The code as is works when using the Manhattan distance for X and Y.
